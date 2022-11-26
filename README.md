@@ -50,7 +50,7 @@ v.charan sai
 ![dk](https://user-images.githubusercontent.com/94296221/204073684-177fbf05-4b1e-4fb8-8d73-f151ca821230.png)
 ![dk1](https://user-images.githubusercontent.com/94296221/204073687-7c226682-b45d-48dc-bcc4-7ced2019573f.png)
 ![dk2](https://user-images.githubusercontent.com/94296221/204073689-32e0aab1-b325-4cf9-b564-e00596d2f550.png)
-![Uploading dk3.png…]()
+
 
 
 ## Results: 
